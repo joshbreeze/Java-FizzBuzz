@@ -11,16 +11,13 @@ public class FizzBuzzGeneratorTest {
     }
 
     @ParameterizedTest
-    @CsvSource({"3,Fizz", "6,Fizz"})
+    @CsvSource({"3,Fizz", "6,Fizz", "2,2", "10,Buzz", "15,FizzBuzz"})
     void multiplesOfThreeReturnsFizz(int input, String result){
         String fizzBuzz = fizzBuzzGenerator.getFizzBuzz(input);
         assertThat(fizzBuzz).isEqualTo(result);
     }
 
 //    Things to add:
-//    @BeforeEach
-//    @ParameterizedTest
 //    @Test
-//    @CsvSource()
 
 }

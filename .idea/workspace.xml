@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a1e3c26-471a-4147-8a96-fd232ca6d011" name="Default Changelist" comment="Add assertj">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzzGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzzGenerator.java" afterDir="false" />
+    <list default="true" id="0a1e3c26-471a-4147-8a96-fd232ca6d011" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzGeneratorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587749693728</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add test">
+      <created>1588095083124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588095083124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Amend to else if, otherwise output was overwritten. Add more test cases.">
+      <created>1588095631391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588095631391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,7 +96,9 @@
     </ignored-roots>
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add assertj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add assertj" />
+    <MESSAGE value="Add test" />
+    <MESSAGE value="Amend to else if, otherwise output was overwritten. Add more test cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Amend to else if, otherwise output was overwritten. Add more test cases." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-651" y="-875" key="#Project_Structure" timestamp="1587729321377">
@@ -97,39 +109,44 @@
       <screen x="713" y="-1057" width="1920" height="1057" />
     </state>
     <state x="1364" y="-814" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/713.-1057.1920.1057/-1211.-1057.1920.1020@713.-1057.1920.1057" timestamp="1587837583103" />
-    <state x="296" y="26" key="CommitChangelistDialog2" timestamp="1588029680433">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="466" y="191" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588095305038">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="466" y="191" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.849@0.23.1440.849" timestamp="1588095305038" />
+    <state x="296" y="23" width="1016" height="787" key="CommitChangelistDialog2" timestamp="1588095631128">
+      <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state x="296" y="26" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588029680433" />
     <state x="296" y="47" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1587749693501" />
-    <state width="1234" height="221" key="GridCell.Tab.0.bottom" timestamp="1588094962857">
+    <state x="296" y="23" width="1016" height="787" key="CommitChangelistDialog2/0.23.1440.849@0.23.1440.849" timestamp="1588095631128" />
+    <state width="1234" height="255" key="GridCell.Tab.0.bottom" timestamp="1588095567216">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.bottom/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536646" />
     <state width="1440" height="265" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588029811542" />
     <state width="1440" height="237" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1587764032510" />
-    <state width="1234" height="221" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1588094962857" />
-    <state width="1234" height="221" key="GridCell.Tab.0.center" timestamp="1588094962856">
+    <state width="1234" height="255" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1588095567216" />
+    <state width="1234" height="255" key="GridCell.Tab.0.center" timestamp="1588095567215">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.center/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536644" />
     <state width="1440" height="265" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588029811539" />
     <state width="1440" height="237" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1587764032509" />
-    <state width="1234" height="221" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1588094962856" />
-    <state width="1234" height="221" key="GridCell.Tab.0.left" timestamp="1588094962856">
+    <state width="1234" height="255" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1588095567215" />
+    <state width="1234" height="255" key="GridCell.Tab.0.left" timestamp="1588095567215">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.left/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536640" />
     <state width="1440" height="265" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588029811538" />
     <state width="1440" height="237" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1587764032508" />
-    <state width="1234" height="221" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1588094962856" />
-    <state width="1234" height="221" key="GridCell.Tab.0.right" timestamp="1588094962857">
+    <state width="1234" height="255" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1588095567215" />
+    <state width="1234" height="255" key="GridCell.Tab.0.right" timestamp="1588095567215">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.right/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536645" />
     <state width="1440" height="265" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588029811540" />
     <state width="1440" height="237" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1587764032509" />
-    <state width="1234" height="221" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1588094962857" />
+    <state width="1234" height="255" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1588095567215" />
     <state x="1182" y="-890" key="SettingsEditor" timestamp="1587839508696">
       <screen x="713" y="-1057" width="1920" height="1057" />
     </state>
@@ -139,6 +156,10 @@
     </state>
     <state x="399" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.840@0.23.1440.840" timestamp="1587748661966" />
     <state x="399" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.877/713.-1057.1920.1057/-1211.-1057.1920.1020@0.23.1440.877" timestamp="1587836346158" />
+    <state x="433" y="220" key="refactoring.ChangeSignatureDialog" timestamp="1588095241053">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="433" y="220" key="refactoring.ChangeSignatureDialog/0.23.1440.849@0.23.1440.849" timestamp="1588095241053" />
     <state x="-586" y="-839" key="search.everywhere.popup" timestamp="1587728311121">
       <screen x="-1211" y="-1080" width="1920" height="1080" />
     </state>
