@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a1e3c26-471a-4147-8a96-fd232ca6d011" name="Default Changelist" comment="" />
+    <list default="true" id="0a1e3c26-471a-4147-8a96-fd232ca6d011" name="Default Changelist" comment="Add assertj">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzzGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzzGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzGeneratorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="FizzBuzz" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1azArHLdpeIXv2tjCuwcQioXY6x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +34,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1451379" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FizzBuzzGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FizzBuzzGeneratorTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +81,9 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add assertj" />
     <option name="LAST_COMMIT_MESSAGE" value="Add assertj" />
@@ -75,30 +97,43 @@
       <screen x="713" y="-1057" width="1920" height="1057" />
     </state>
     <state x="1364" y="-814" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/713.-1057.1920.1057/-1211.-1057.1920.1020@713.-1057.1920.1057" timestamp="1587837583103" />
-    <state x="296" y="47" key="CommitChangelistDialog2" timestamp="1587749693501">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state x="296" y="26" key="CommitChangelistDialog2" timestamp="1588029680433">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="296" y="26" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588029680433" />
     <state x="296" y="47" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1587749693501" />
-    <state width="1440" height="237" key="GridCell.Tab.0.bottom" timestamp="1587764032510">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1234" height="221" key="GridCell.Tab.0.bottom" timestamp="1588094962857">
+      <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.bottom/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536646" />
+    <state width="1440" height="265" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588029811542" />
     <state width="1440" height="237" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1587764032510" />
-    <state width="1440" height="237" key="GridCell.Tab.0.center" timestamp="1587764032509">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1234" height="221" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1588094962857" />
+    <state width="1234" height="221" key="GridCell.Tab.0.center" timestamp="1588094962856">
+      <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.center/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536644" />
+    <state width="1440" height="265" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588029811539" />
     <state width="1440" height="237" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1587764032509" />
-    <state width="1440" height="237" key="GridCell.Tab.0.left" timestamp="1587764032508">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1234" height="221" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1588094962856" />
+    <state width="1234" height="221" key="GridCell.Tab.0.left" timestamp="1588094962856">
+      <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.left/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536640" />
+    <state width="1440" height="265" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588029811538" />
     <state width="1440" height="237" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1587764032508" />
-    <state width="1440" height="237" key="GridCell.Tab.0.right" timestamp="1587764032509">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1234" height="221" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1588094962856" />
+    <state width="1234" height="221" key="GridCell.Tab.0.right" timestamp="1588094962857">
+      <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1920" height="376" key="GridCell.Tab.0.right/-1211.-1080.1920.1080/0.0.1440.900/713.-1080.1920.1080@-1211.-1080.1920.1080" timestamp="1587729536645" />
+    <state width="1440" height="265" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588029811540" />
     <state width="1440" height="237" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1587764032509" />
+    <state width="1234" height="221" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1588094962857" />
+    <state x="1182" y="-890" key="SettingsEditor" timestamp="1587839508696">
+      <screen x="713" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1182" y="-890" key="SettingsEditor/0.23.1440.877/713.-1057.1920.1057/-1211.-1057.1920.1020@713.-1057.1920.1057" timestamp="1587839508696" />
     <state x="399" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1587836346158">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
